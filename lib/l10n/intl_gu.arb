@@ -1,0 +1,19 @@
+{
+  "@@locale": "gu",
+  "appTitle": "ક્લિનિક મેનેજર",
+  "dashboard": "ડેશબોર્ડ",
+  "patientRegistration": "દર્દી નોંધણી",
+  "appointments": "નિમણૂંકો",
+  "pharmacy": "ફાર્મસી",
+  "opdInvoice": "ઓપીડી ઇન્વોઇસ",
+  "panchakarmaLog": "પંચકર્મ લોગ",
+  "save": "સાચવો",
+  "submit": "સબમિટ કરો",
+  "addItem": "આઇટમ ઉમેરો",
+  "settings": "સેટિંગ્સ",
+  "language": "ભાષા",
+  "english": "English",
+  "hindi": "हिंदी",
+  "gujarati": "ગુજરાતી",
+  "quickActions": "ઝડપી ક્રિયાઓ"
+}

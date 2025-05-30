@@ -1,0 +1,19 @@
+{
+  "@@locale": "hi",
+  "appTitle": "क्लिनिक मैनेजर",
+  "dashboard": "डैशबोर्ड",
+  "patientRegistration": "रोगी पंजीकरण",
+  "appointments": "नियुक्तियाँ",
+  "pharmacy": "फार्मेसी",
+  "opdInvoice": "ओपीडी चालान",
+  "panchakarmaLog": "पंचकर्म लॉग",
+  "save": "सहेजें",
+  "submit": "प्रस्तुत करें",
+  "addItem": "आइटम जोड़ें",
+  "settings": "समायोजन",
+  "language": "भाषा",
+  "english": "English",
+  "hindi": "हिंदी",
+  "gujarati": "ગુજરાતી",
+  "quickActions": "त्वरित कार्रवाई"
+}

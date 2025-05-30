@@ -1,0 +1,19 @@
+{
+  "@@locale": "en",
+  "appTitle": "Clinic Manager",
+  "dashboard": "Dashboard",
+  "patientRegistration": "Patient Registration",
+  "appointments": "Appointments",
+  "pharmacy": "Pharmacy",
+  "opdInvoice": "OPD Invoice",
+  "panchakarmaLog": "Panchakarma Log",
+  "save": "Save",
+  "submit": "Submit",
+  "addItem": "Add Item",
+  "settings": "Settings",
+  "language": "Language",
+  "english": "English",
+  "hindi": "Hindi",
+  "gujarati": "Gujarati",
+  "quickActions": "Quick Actions"
+}
